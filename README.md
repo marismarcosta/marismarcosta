@@ -10,6 +10,6 @@ Just an apprentice committed to the continuous advancement of technology, intere
 I am currently working from home on personal projects and also learning about data science, reactjs and nodejs.
 
 <p align="right">
-  "I have not failed. I've just found 10,000 ways that won't work. <br>
+  "I have not failed. I've just found 10,000 ways that won't work." <br>
   Thomas Edison
 </p>
