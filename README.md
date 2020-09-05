@@ -1,16 +1,15 @@
-### Hi there 👋
+# Marismar Costa
 
-<!--
-**marismarcosta/marismarcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at UFPB.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Marismar%20Costa-0282d0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marismarcosta/)](https://www.linkedin.com/in/marismarcosta/) 
+[![Gmail Badge](https://img.shields.io/badge/-cmarismar@gmail.com-0282d0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:cmarismar@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just an apprentice committed to the continuous advancement of technology, interested in new knowledge and challenges. 
+
+I am currently working from home on personal projects and also learning about data science, reactjs and nodejs.
+
+<p align="right">
+  "I have not failed. I've just found 10,000 ways that won't work. <br>
+  Thomas Edison
+</p>
