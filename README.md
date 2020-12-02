@@ -7,7 +7,7 @@ Computer Engineering student at UFPB.
 
 Just an apprentice committed to the continuous advancement of technology, interested in new knowledge and challenges. 
 
-I am currently working from home on personal projects and also learning about data science, reactjs and nodejs.
+I am currently working from home and also learning about data science, typescript and angular.
 
 <p align="right">
   "I have not failed. I've just found 10,000 ways that won't work." <br>
